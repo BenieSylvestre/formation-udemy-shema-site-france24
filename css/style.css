@@ -1,0 +1,67 @@
+.logo {
+    height: 50px;
+    width: 60px;
+    background-color: #00A7E3;
+    font-size: 14px;
+    padding: 5px 5px;
+    font-weight: bold;
+    color: #FFF;
+    position: relative;
+}
+
+.logo .nombre {
+    font-size: 22px;
+    position: absolute;
+    top: 14px;
+
+}
+
+#play {
+    vertical-align: middle;
+}
+.site-nav {
+    background-color: #00A7E3;
+}
+
+.nav .nav-item a {
+    color: #FFF;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.nav-item .nav-highlight {
+    background-color: #4DC2EB;
+    padding: 5px 10px;
+    margin: 0.5rem 0.5rem;
+    border-radius: 5px;
+}
+
+.site-notification {
+    color: #FFF;
+    background-color: #000;
+    padding: 5px 5px;
+}
+
+/* .info-continu-titre {
+    
+    
+    padding: 5px 15px;
+} */
+
+.titre-info {
+    background-color: black;
+    color: #FFF;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+.ligne-info-continu {
+    background-color: grey;
+}
+
+
+
+
+
+
+
